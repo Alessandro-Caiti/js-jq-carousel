@@ -57,6 +57,10 @@
     justify-content: space-between;
 }
 
+.fas.fa-circle {
+    padding: 0 5px;
+}
+
 .slider-nav i.active {
     color: white;
 }
